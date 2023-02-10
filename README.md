@@ -1,7 +1,7 @@
 # Foot Pedal Switch
 The Foot Pedal Switch is an assistive switch with a standard 3.5 mm mono jack that can be operated with a foot.
 
-This design is by John Park and was posted as part of an Adafruit Learning guide (https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27).
+This design is by John Park and was posted as part of an [Adafruit Learning guide](https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27).
 
 <img src="Photos/foot-pedal-switch.jpg" width="500" alt="A grey Foot Pedal Switch with an attached 3.5 mm cable sitting on a table.">
 
@@ -9,7 +9,7 @@ This design is by John Park and was posted as part of an Adafruit Learning guide
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/foot-pedal-switch/)
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/foot-pedal-switch/)
 
-Foot Pedal Switch
+#Foot Pedal Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Foot Pedal Switch are contained within this repository. Refer to the Maker Checklist below.
