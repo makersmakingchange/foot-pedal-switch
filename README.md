@@ -9,7 +9,6 @@ This design is by John Park and was posted as part of an [Adafruit Learning guid
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/foot-pedal-switch/)
 - [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/foot-pedal-switch/)
 
-#Foot Pedal Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Foot Pedal Switch are contained within this repository. Refer to the Maker Checklist below.
