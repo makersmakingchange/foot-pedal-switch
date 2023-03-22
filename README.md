@@ -1,21 +1,21 @@
-# Foot Pedal Switch
-The Foot Pedal Switch is an assistive switch with a standard 3.5 mm mono jack that can be operated with a foot.
+# Pill Splitter
+The pill slicer is an easy to use device that slices a pill into two. This device is intended for users that need to cut pills into two and have difficulty doing so without crushing the pill.
 
-This design is by John Park and was posted as part of an [Adafruit Learning guide](https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27).
-
-<img src="Photos/foot-pedal-switch.jpg" width="500" alt="A grey Foot Pedal Switch with an attached 3.5 mm cable sitting on a table.">
+<img src="Photos/Pill-Splitter.jpg" width="500" alt="Picture of Pill Splitter.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/foot-pedal-switch/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/foot-pedal-switch/)
+- [Makers Making Change Project Page](https://makersmakingchange.com/project/pill-splitter/)
+- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/pill-splitter/)
 
+
+## How to Obtain a Pill Splitter
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Foot Pedal Switch are contained within this repository. Refer to the Maker Checklist below.
+This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the Pill Splitter are contained within this repository. Refer to the Maker Checklist below.
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Foot Pedal Switch, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/foot-pedal-switch/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Pill Splitter, you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/pill-splitter/). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
@@ -26,41 +26,51 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist contains a list of steps outling the process to create the device.
+[The Makers Checklist](/Documentation/Pill_Splitter_Maker_Checklist_V1.0.pdf)
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Foot_Pedal_Switch_BOM_V1.0.xlsx) lists all of the parts and components required to build the Foot Pedal Switch. The all components needs to be ordered online. 
+The [Bill of Materials](/Documentation/Pill_Splitter_BOM_V1.0.xlsx) lists all of the parts and components required to build the Pill Splitter. The razor blades are also online or may be available in smaller quantities at your local dollar store.
 
-### 3. Assemble the Foot Pedal Switch
 
-Reference the [Assembly Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
+### 3. Print the 3D Printable components
+
+Print the components
+
+All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
+
+### 4. Assemble the Pill Splitter
+
+Reference the [Assembly Guide](/Documentation/Pill_Splitter_Assembly_Guide_V1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Foot_Pedal_Switch_Design_Rationale](/Documentation/Foot_Pedal_Switch_Design_Rationale_V1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Foot_Pedal_Switch_Maker_Checklist](/Documentation/Foot_Pedal_Switch_Maker_Checklist_V1.0.pdf)     |
-| Bill of Materials    | 1.0     | [Foot_Pedal_Switch_Bill_of_Materials](/Documentation/Foot_Pedal_Switch_BOM_V1.0.xlsx)     |
-| Assembly Guide       | 1.0     | [Foot_Pedal_Switch_Assembly_Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V1.0.pdf)     |
-| User Guide           | 1.0     | [Foot_Pedal_Switch_User_Guide](/Documentation/Foot_Pedal_Switch_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.0     | [Foot_Pedal_Switch_Changelog](/Documentation/Foot_Pedal_Switch_Changelog_V1.0.pdf)     |
+| Design Rationale     | 1.0     | [Pill_Splitter_Design_Rationale](/Documentation/Pill_Splitter_Design_Rationale_V1.0.pdf)     |
+| Maker Checklist      | 1.0     | [Pill_Splitter_Maker_Checklist](/Documentation/Pill_Splitter_Maker_Checklist_V1.0.pdf)     |
+| Bill of Materials    | 1.0     | [Pill_Splitter_Bill_of_Materials](/Documentation/Pill_Splitter_BOM_V1.0.xlsx)     |
+| 3D Printing Guide    | 1.0     | [Pill_Splitter_3D_Printing_Guide](/Documentation/Pill_Splitter_3D_Printing_Guide_V1.0.pdf)     |
+| Assembly Guide       | 1.0     | [Pill_Splitter_Assembly_Guide](/Documentation/Pill_Splitter_Assembly_Guide_V1.0.pdf)     |
+| User Guide           | 1.0     | [Pill_Splitter_User_Guide](/Documentation/Pill_Splitter_User_Guide_V1.0.pdf)    |
+| Changelog            | 1.0     | [Pill_Splitter_Changelog](/Documentation/Pill_Splitter_Changelog_V1.0.pdf)     |
 
+### Design Files
+ - [CAD Files](/Design_Files)
 
+### Build Files
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-
-•	Design by [John Park](https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27)
-
-•	Documentation by Neil Squire Society/Makers Making Change
-
+Designers:
+•	Initial design by [Aliaksei Petsiuk @apetsiuk - MyMiniFactory](https://www.myminifactory.com/users/apetsiuk)
+•	Modifications and documentation by Neil Squire Society/Makers Making Change
 
 
 ## License
-Everything needed or used to design, make, test, or prepare the Foot Pedal Switch is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Everything needed or used to design, make, test, or prepare the Pill Splitter is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Foot Pedal Switch are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Pill Splitter are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
 
 
 ---
