@@ -41,13 +41,13 @@ Reference the [Assembly Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V
 ### Documentation
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Design Rationale     | 1.0     | [Foot_Pedal_Switch_Design_Rationale](/Documentation/Foot_Pedal_Switch_Design_Rationale_V1.0.pdf)     |
-| Maker Checklist      | 1.0     | [Foot_Pedal_Switch_Maker_Checklist](/Documentation/Foot_Pedal_Switch_Maker_Checklist_V1.0.pdf)     |
-| Bill of Materials    | 1.1     | [Foot_Pedal_Switch_Bill_of_Materials](/Documentation/Foot_Pedal_Switch_BOM_V1.1.xlsx)     |
-| Assembly Guide       | 1.1     | [Foot_Pedal_Switch_Assembly_Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V1.1.pdf)     |
-| 3D Printing Guide    | 1.1     | [Pill_Splitter_3D_Printing_Guide](/Documentation/Pill_Splitter_3D_Printing_Guide_V1.1.pdf)     |
-| User Guide           | 1.0     | [Foot_Pedal_Switch_User_Guide](/Documentation/Foot_Pedal_Switch_User_Guide_V1.0.pdf)    |
-| Changelog            | 1.1     | [Foot_Pedal_Switch_Changelog](/Documentation/Foot_Pedal_Switch_Changelog_V1.1.pdf)     |
+| Design Rationale     | 1.2     | [Foot_Pedal_Switch_Design_Rationale](/Documentation/Foot_Pedal_Switch_Design_Rationale_V1.2.pdf)     |
+| Maker Checklist      | 1.2     | [Foot_Pedal_Switch_Maker_Checklist](/Documentation/Foot_Pedal_Switch_Maker_Checklist_V1.2.pdf)     |
+| Bill of Materials    | 1.2     | [Foot_Pedal_Switch_Bill_of_Materials](/Documentation/Foot_Pedal_Switch_BOM_V1.2.xlsx)     |
+| Assembly Guide       | 1.2     | [Foot_Pedal_Switch_Assembly_Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V1.2.pdf)     |
+| 3D Printing Guide    | 1.2     | [Pill_Splitter_3D_Printing_Guide](/Documentation/Pill_Splitter_3D_Printing_Guide_V1.2.pdf)     |
+| User Guide           | 1.2     | [Foot_Pedal_Switch_User_Guide](/Documentation/Foot_Pedal_Switch_User_Guide_V1.2.pdf)    |
+| Changelog            | 1.2     | [Foot_Pedal_Switch_Changelog](/Documentation/Foot_Pedal_Switch_Changelog_V1.2.pdf)     |
 
 ### Design Files
  - [CAD Files](/Design_Files)
