@@ -7,7 +7,6 @@ This design is by John Park and was posted as part of an Adafruit Learning guide
 
 ## More info at
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/foot-pedal-switch/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/foot-pedal-switch/)
 
 Foot Pedal Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -56,10 +55,8 @@ Reference the [Assembly Guide](/Documentation/Foot_Pedal_Switch_Assembly_Guide_V
  - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 ## Attribution
-
-•	Design by [John Park](https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27)
-
-•	Documentation by Neil Squire Society/Makers Making Change
+ - Design by [John Park](https://learn.adafruit.com/diy-adaptive-game-controllers/interfacing-buttons-and-switches#foot-pedal-3015364-27)
+ - Documentation by Neil Squire Society/Makers Making Change
 
 
 
@@ -70,7 +67,7 @@ Accompanying material such as instruction manuals, videos, and other copyrightab
 
 
 ---
-
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -88,3 +85,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Website](https://www.makersmakingchange.com/), [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
