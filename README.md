@@ -6,7 +6,7 @@ This design is by John Park and was posted as part of an Adafruit Learning guide
 <img src="Photos/foot-pedal-switch.jpg" width="500" alt="A grey Foot Pedal Switch with an attached 3.5 mm cable sitting on a table.">
 
 ## More info at
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/foot-pedal-switch/)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/product/foot-pedal-switch/01tJR0000009Sl3YAE)
 
 Foot Pedal Switch
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
